@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">StopWatch</string>
+    <string name="take_your_own_time">Time waits for no one</string>
+    <string name="key_quotes">Time is the most valuable thing a man can spend</string>
+    <string name="name">name</string>
+    <string name="time">time</string>
+    <string name="view_details">View Details</string>
+    <string name="add">Add</string>
+    <string name="reset">Reset</string>
+    <string name="start">Start</string>
 </resources>
